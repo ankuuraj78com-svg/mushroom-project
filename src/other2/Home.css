@@ -1,0 +1,8 @@
+.mush{
+    height: 200px;
+    width: 600px;
+    border: 2px blue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
